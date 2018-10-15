@@ -1,0 +1,11 @@
+.body-wrapper.gdlr-pattern-background{
+  background-image: url("../images/background_grau.png");
+}
+
+body{
+  font-family: 'Cousine', monospace;
+}
+
+h1, h2, h3, h4, h5, h6, .gdlr-navigation-wrapper a{
+  font-family: 'Raleway', sans-serif;
+}
